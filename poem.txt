@@ -5,5 +5,7 @@ Pink
 Orange
 Blue
 Green
+Yellow
 Red
 These are the colors at the rainbow.
+
